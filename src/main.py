@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Simple RabbitMQ init container for creating users and setting up
-# their vhost and topic permissions#.
+# their vhost and topic permissions.
 
 import os
 import requests
